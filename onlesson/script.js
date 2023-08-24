@@ -1,4 +1,4 @@
-let raduga = prompt('скільки кольорів у райдузі?');
+/*let raduga = prompt('скільки кольорів у райдузі?');
 if (raduga == 7) {
     alert('так і є!')
 } else {
@@ -14,8 +14,8 @@ for (let i = 0; i < animal.length; i++ ){
 const animals = ['cat', 'dog', 'sun', 'case', 'pen'];
 
 function trans(arr) {
-    for(let i = 0; i < animal.length; i++ ){
+    for(let i = 0; i < animals.length; i++ ){
         console.log('awesome', animals[i])
 }
 }
-trans(['cat', 'dog', 'sun', 'case', 'pen']);
+trans(['cat', 'dog', 'sun', 'case', 'pen']);*/
